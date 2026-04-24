@@ -101,7 +101,7 @@ Après la fin de la partie, le serveur et les clients ferment leurs sockets et l
 
 ## Auteurs
 
-Ce projet a été développé par Mohamed Saad EL ABBADI et moi-même, Adrien PANGUEL, dans le cadre d'un projet académique, que j'ai poursuivi pour apporter les dernières finitions, notamment la possibilité de rejouer des parties à l'infini.
+Ce projet a été développé par moi-même, Adrien PANGUEL, dans le cadre d'un projet académique, que j'ai poursuivi pour apporter les dernières finitions, notamment la possibilité de rejouer des parties à l'infini.
 
 
 Profitez de votre partie d'échecs en réseau !!!
